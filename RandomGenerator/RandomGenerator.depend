@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1472062913 source:c:\utn\proyectos\generador aleatorio\randomgenerator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1473879448 source:g:\proyecto\generador aleatorio\randomgenerator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
+1473982554 source:f:\proyecto\generador aleatorio\randomgenerator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
